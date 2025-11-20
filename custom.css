@@ -328,7 +328,7 @@ body.lang-de #footnote .multilang-en {
     justify-content:space-around;
 }
 .atto_image_button_text-bottom.img-fluid {
-    height:5rem;
+    height:10rem;
     width:auto;
 }
 /* Media Queries für andere Bildschirme */
@@ -692,6 +692,9 @@ span.inplaceeditable[data-component="tool_courserating"] a.quickeditlink {
 div.user-review div.userinfo {
     display:none;
 }
+.gradeparent {
+    overflow: auto;
+}
 /* ----------------------------------------------------------------------------------
        FUH Changes - Removing some links from user profile
 ---------------------------------------------------------------------------------- */
@@ -727,7 +730,7 @@ a[href *="/admin/tool/lp/coursecompetencies.php"] {
 
 /*----------------------------------------------------------------------------------
 
-(LEGACY) ATTO STYLES
+14. (LEGACY) ATTO STYLES
 
 -----------------------------------------------------------------------------------*/
 
