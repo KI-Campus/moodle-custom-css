@@ -674,6 +674,17 @@ MY COURSES PAGE
     margin-right:0.5rem !important;
     margin-bottom:0.5rem !important;
 }
+
+.block_myoverview .card-title,
+.block_myoverview h5.card-title {
+  color: #3c257a; /* gewünschte Farbe */
+}
+
+#page-header .page-header-headings h1,
+#page-header .page-header-headings .h2,
+#page-header .page-header-headings .page-title {
+  color: #3c257a; /* Farbe für Page-Header-Titel */
+}
 /*----------------------------------------------------------------------------------
 
 STARTSEITE
